@@ -52,7 +52,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="50" height="50"/>
   </a>
 </p>
-
+<br>
 <h2 align="left">🧠 Top Technical Skills</h2>
 
 <p align="left">
@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
-
+<br>
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 <p align="left">
