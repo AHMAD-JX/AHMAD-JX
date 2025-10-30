@@ -82,7 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Top Languages" width="400"/>&nbsp;&nbsp;
 
   <!-- GitHub Stats with same height as Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 
