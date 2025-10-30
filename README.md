@@ -77,14 +77,13 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&langs_count=8&theme=radical&hide=html" alt="Top Languages" width="400" height="180"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="450" height="250"/>&nbsp;&nbsp;
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="450" height="250"/>
 </p>
-
 
 
 
