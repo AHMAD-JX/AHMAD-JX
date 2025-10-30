@@ -18,22 +18,21 @@
   <img src="https://img.shields.io/badge/Member%20Since-2024-FF4500?style=for-the-badge&logo=clockify&logoColor=white" alt="Member Since" />
 </p>
 
-<table style="border: none;" align="center">
-  <tr>
-    <td width="55%" align="left" valign="top" style="border: none;">
-      
-<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family:'Courier New', monospace;">
-<pre style="margin: 0; white-space: pre-wrap;">
-🎮 I love building interactive web experiences with 3D animations & smooth UI.
-🔥 Currently working on 3D Animated Full Stack Website.
-📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).
-💡 Open to collaborating on exciting front-end projects.
-</pre>
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Left Side (Code Editor Style) -->
+    <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; width: 480px; font-family: 'Courier New', monospace; box-shadow: 0 0 15px rgba(255,255,255,0.1);">
+      <p>🎮 I love building interactive web experiences with 3D animations & smooth UI.<br>
+      🔥 Currently working on 3D Animated Full stack Website.<br>
+      📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).<br>
+      💡 Open to collaborating on exciting front-end projects.</p>
+    </div>
+    <!-- Right Side (GIF) -->
+    <div>
+      <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif?raw=true" width="480" style="border-radius: 10px;">
+    </div>
+
+  </div>
 </div>
-    </td>
-    <td width="45%" align="center" valign="middle" style="border: none;">
-      <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" width="100%" style="border-radius:10px;" alt="Right Side Animation" />
-    </td>
-  </tr>
-</table>
+
 
