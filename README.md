@@ -78,11 +78,9 @@
 
 
 <p align="left">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Most Used Languages" width="380" />
-
-  <!-- GitHub Stats -->
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AHMAD-JX&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMAD-JX&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 
