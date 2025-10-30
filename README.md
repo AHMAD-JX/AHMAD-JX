@@ -80,8 +80,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Top Languages" width="400"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.demolab.com?user=AHMAD-JX&theme=radical" alt="GitHub Streak Stats" width="400"/>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AHMAD-JX&theme=dark)](https://git.io/streak-stats)
 
 
 
