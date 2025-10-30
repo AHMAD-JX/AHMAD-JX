@@ -29,10 +29,19 @@
 💡 I develop advanced and complex databases (PostgreSQL, MongoDB).
 </pre>
   </div>
-
- 
-
 </div>
+
+
+<h2 align="left">🚀 Connect & Download</h2>
+<p align="left">
+  <a href="https://your-cv-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-Download%20Now-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="My CV" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio" />
+  </a>
+</p>
+
 
 
 
