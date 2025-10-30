@@ -3,7 +3,7 @@
 <!--  https://github.com/AHMAD-JX/AHMAD-JX/blob/eb2a4ec8fbfea6b0bc3a4393a3294bdff9cc7bc0/banner.png -->
 
 <p align="center">
-  <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/eb2a4ec8fbfea6b0bc3a4393a3294bdff9cc7bc0/banner.png" alt="Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">
@@ -18,43 +18,21 @@
   <img src="https://img.shields.io/badge/Member%20Since-2024-FF4500?style=for-the-badge&logo=clockify&logoColor=white" alt="Member Since" />
 </p>
 
-
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <!-- LEFT SIDE (Description with larger, stylish text) -->
-    <td align="left" valign="middle" width="70%">
-      <p style="font-size: 16px; line-height: 1.7; font-weight: 500;">
-        🎮 I love building <b>interactive web experiences</b> with <b>3D animations</b> & smooth UI.<br>
-        🔥 Currently working on a <b>3D Animated Full Stack Website</b>.<br>
-        📚 Learning <b>advanced front-end frameworks</b> and <b>WebGL (Three.js, GSAP)</b>.<br>
-        💡 Open to collaborating on <b>exciting front-end projects</b>.<br>
-      </p>
+    <!-- Left Side -->
+    <td align="left" width="60%">
+      <pre>
+🎮 I love building interactive web experiences with 3D animations & smooth UI.
+🔥 Currently working on 3D Animated Full Stack Website.
+📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).
+💡 Open to collaborating on exciting front-end projects.
+      </pre>
     </td>
-    <!-- RIGHT SIDE (Buttons) -->
-    <td align="left" valign="middle" width="30%">
-      <p style="margin: 0;">
-        <a href="https://your-cv-link.com" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/My%20CV-%23FF4081?style=for-the-badge&logo=readme&logoColor=white" 
-            alt="My CV" 
-            width="180px" 
-            height="45px"
-          />
-        </a>
-      </p>
-      <p style="margin-top: 10px;">
-        <a href="https://your-portfolio-link.com" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" 
-            alt="My Portfolio" 
-            width="180px" 
-            height="45px"
-          />
-        </a>
-      </p>
+    <!-- Right Side  https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif -->
+    <td align="center" width="40%">
+      <img src="Right_Side.gif" width="100%" alt="Right Side Animation">
     </td>
   </tr>
 </table>
-
-
 
