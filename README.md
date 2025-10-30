@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/Member%20Since-2024-FF4500?style=for-the-badge&logo=clockify&logoColor=white" alt="Member Since" />
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center" style=" align-items: center; justify-content: center; gap: 20px;">
 
   <!-- Left Side (Code Editor Style) -->
-  <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; width: 55%; font-family: 'Courier New', monospace; height: 250px; display: flex; align-items: center;">
+  <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; width: 50%; font-family: 'Courier New', monospace; height: 250px; display: flex; align-items: center;">
 <pre style="margin: 0; white-space: pre-wrap;">
 🎮 I love building interactive web experiences with 3D animations & smooth UI.
 🔥 Currently working on 3D Animated Full Stack Website.
