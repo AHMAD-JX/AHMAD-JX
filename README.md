@@ -43,11 +43,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
-   <a href="https://wa.me/20100xxxxxxx" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-jx" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/+21025582755" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="Ahmadjx1stt@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/your-facebook" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" width="50" height="50"/>
   </a>
@@ -74,6 +74,15 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</p>
+
+
+<p align="left">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Top Languages" width="400"/>&nbsp;&nbsp;
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
 </p>
 
 
