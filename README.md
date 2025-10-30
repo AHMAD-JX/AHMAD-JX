@@ -22,12 +22,14 @@
   <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Left Side (Code Editor Style) -->
     <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; width: 480px; font-family: 'Courier New', monospace; box-shadow: 0 0 15px rgba(255,255,255,0.1);">
-      <p>
-      🎮 I love building interactive web experiences with 3D animations & smooth UI.<br>
-      🔥 Currently working on 3D Animated Full stack Website.<br>
-      📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).<br>
-      💡 Open to collaborating on exciting front-end projects.
-      </p>
+      <pre>
+        <p>
+         🎮 I love building interactive web experiences with 3D animations & smooth UI.<br>
+         🔥 Currently working on 3D Animated Full stack Website.<br>
+         📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).<br>
+         💡 Open to collaborating on exciting front-end projects.
+        </p>
+       </pre>
     </div>
     <!-- Right Side (GIF) -->
     <div>
