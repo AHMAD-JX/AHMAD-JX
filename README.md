@@ -78,7 +78,7 @@
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AHMAD-JX&theme=onestar&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
