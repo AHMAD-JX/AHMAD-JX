@@ -25,13 +25,12 @@
 <pre style="margin: 0; white-space: pre-wrap;">
 🎮 I love building interactive web experiences with 3D animations & smooth UI.
 🔥 Currently working on 3D Animated Full Stack Website.
-📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).
-💡 Open to collaborating on exciting front-end projects.
+📚 Learning advanced Full-Stack frameworks and WebGL (Three.js, GSAP, api's).
+💡 I develop advanced and complex databases (PostgreSQL, MongoDB).
 </pre>
   </div>
 
-  <!-- Right Side (GIF Image) -->
-  <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" alt="Right Side Animation" width="300" style="border-radius: 10px;" />
+ 
 
 </div>
 
