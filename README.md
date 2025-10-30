@@ -77,20 +77,13 @@
 </p>
 
 
-<table>
-  <tr>
-    <!-- Most Used Languages -->
-    <td valign="top" width="50%">
-      <h2 align="center">💻 Most Used Languages</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-    </td>
-    <!-- GitHub Stats -->
-    <td valign="top" width="50%">
-      <h2 align="center">📊 GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&langs_count=8&theme=radical&hide=html" alt="Top Languages" width="400" height="180"/>&nbsp;&nbsp;
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="400" height="180"/>
+</p>
 
 
 
