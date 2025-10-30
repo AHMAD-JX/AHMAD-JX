@@ -30,7 +30,6 @@
 💡 Open to collaborating on exciting front-end projects.
 </pre>
 </div>
-
     </td>
     <td width="45%" align="center" valign="middle" style="border: none;">
       <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" width="100%" style="border-radius:10px;" alt="Right Side Animation" />
