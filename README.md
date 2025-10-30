@@ -82,13 +82,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Most Used Languages" width="380" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="380" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AHMAD-JX&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
-<p align="left">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMAD-JX&theme=radical" alt="GitHub Streak" width="760" />
-</p>
 
 
 
