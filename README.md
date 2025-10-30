@@ -29,7 +29,7 @@
     </div>
     <!-- Right Side (GIF) -->
     <div>
-      <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif?raw=true" width="480" style="border-radius: 10px;">
+      <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif?raw=true" width="320" style="border-radius: 10px;">
     </div>
 
   </div>
