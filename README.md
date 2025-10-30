@@ -77,12 +77,12 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Most Used Languages" width="380" />&nbsp;&nbsp;
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="450" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="450" height="350"/>
 </p>
 
 
