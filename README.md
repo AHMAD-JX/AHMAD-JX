@@ -42,6 +42,13 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/20100xxxxxxx" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="50" height="50" style="filter: invert(36%) sepia(98%) saturate(746%) hue-rotate(89deg) brightness(96%) contrast(90%);" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" height="55"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/your-facebook" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="50" height="50" style="filter: invert(31%) sepia(89%) saturate(1914%) hue-rotate(203deg) brightness(96%) contrast(101%);" /></a>
+</p>
+
 
 
 
