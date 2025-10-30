@@ -76,10 +76,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="left">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AHMAD-JX&theme=radical&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AHMAD-JX&theme=gruvbox_light&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 
