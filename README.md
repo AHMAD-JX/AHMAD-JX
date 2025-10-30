@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Member%20Since-2024-FF4500?style=for-the-badge&logo=clockify&logoColor=white" alt="Member Since" />
 </p>
 
-<div align="center">
+<div align="left">
   <div style="display: flex; align-items: left; justify-content: left; gap: 20px; flex-wrap: wrap;">
     <!-- Left Side (Code Editor Style) -->
     <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; width: 480px; font-family: 'Courier New', monospace; box-shadow: 0 0 15px rgba(255,255,255,0.1);">
