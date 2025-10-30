@@ -18,20 +18,23 @@
   <img src="https://img.shields.io/badge/Member%20Since-2024-FF4500?style=for-the-badge&logo=clockify&logoColor=white" alt="Member Since" />
 </p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Left Side (Code Editor Style) -->
-  <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px; width: 55%; font-family: 'Courier New', monospace; height: 250px; display: flex; align-items: center;">
+<table style="border: none;" align="center">
+  <tr>
+    <td width="55%" align="left" valign="top" style="border: none;">
+      
+<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px; font-family:'Courier New', monospace;">
 <pre style="margin: 0; white-space: pre-wrap;">
 🎮 I love building interactive web experiences with 3D animations & smooth UI.
 🔥 Currently working on 3D Animated Full Stack Website.
 📚 Learning advanced front-end frameworks and WebGL (Three.js, GSAP).
 💡 Open to collaborating on exciting front-end projects.
 </pre>
-  </div>
-
-  <!-- Right Side (GIF Image) -->
-  <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" alt="Right Side Animation" width="35%" style="border-radius: 10px;" />
-
 </div>
+
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" width="100%" style="border-radius:10px;" alt="Right Side Animation" />
+    </td>
+  </tr>
+</table>
 
