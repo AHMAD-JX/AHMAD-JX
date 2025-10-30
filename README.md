@@ -31,7 +31,7 @@
   </div>
 
   <!-- Right Side (GIF Image) -->
-  <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" alt="Right Side Animation" width="35%" style="border-radius: 10px;" />
+  <img src="https://github.com/AHMAD-JX/AHMAD-JX/blob/29a216a0cba935cb02b5f24751e8121c6b0803f0/Right_Side.gif" alt="Right Side Animation" width="300" style="border-radius: 10px;" />
 
 </div>
 
