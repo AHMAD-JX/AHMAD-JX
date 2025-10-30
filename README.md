@@ -77,12 +77,20 @@
 </p>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-  &nbsp;&nbsp;&nbsp;
-</p>
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=AHMAD-JX&theme=dark)](https://git.io/streak-stats)
-
+<table>
+  <tr>
+    <!-- Most Used Languages -->
+    <td valign="top" width="50%">
+      <h2 align="center">💻 Most Used Languages</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-JX&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+    </td>
+    <!-- GitHub Stats -->
+    <td valign="top" width="50%">
+      <h2 align="center">📊 GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=AHMAD-JX&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 
 
